@@ -1,7 +1,8 @@
 /* 
 Now there is probably a more efficient code that does this better.
-But im so new to this I like this and its my magnum opus for now.
-I did this for fun without little help i got from the web so if you see this enjoy it!
+But I'm so new to this I like this and it's my magnum opus for now.
+I did this for fun with a little help I got from the web so if you see this enjoy it!
+If I'm bored at school I might add more to this.
 */
 task main()
 {
@@ -17,8 +18,8 @@ task main()
 		backward(5);
 		wait1Msec(500);
 
-		Counter++; //I couldnt tell you how this works.
-		wait1Msec(5); //But i can tell you how this works!
+		Counter++; //I couldn't tell you how this works.
+		wait1Msec(5); //But I can tell you how this works!
 		stop();
 	}
 	if (Counter == 20)
